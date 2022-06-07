@@ -5,6 +5,8 @@ In this project, we built an image classifier to classify fashion images into on
 
 ## Data Description
 
+``fiu-cap5610-spring22`` contains the following files:
+
 * ``train.csv`` - the training set.
 * ``test.csv`` - the test set
 * ``sample_submission.csv`` - a sample submission file in the correct format
