@@ -1,7 +1,20 @@
 # Machine Learning Competition
 Final project for FIU CAP5610 Introduction to Machine Learning (Spring/2022). 
 
-In this project, we built an image classifier to classify fashion images into one of 4 categories: Apparel, Accessories, Personal Care, Footwear. 
+In this project, we built an image classifier to classify fashion images into one of 4 categories: Apparel, Accessories, Personal Care, Footwear.
+
+## Data Description
+
+* ``train.csv`` - the training set.
+* ``test.csv`` - the test set
+* ``sample_submission.csv`` - a sample submission file in the correct format
+* ``images`` - folder containing all the train and test images
+
+**Dateset Columns**
+
+``img_id`` - id of the input images. The corresponding image file name is ``img_id.jpg``.
+
+``label`` - label of the corresponding image
 
 ## Model Details
 
