@@ -41,6 +41,6 @@ We used a fully connected neural network with:
 
 ## Result 
 * The accuracy obtained was 99.49%
-* We ended up first place among other 7 groups
+* We ended up first place among other 9 groups
 
 
