@@ -1,5 +1,5 @@
 # Machine Learning Competition
-Final project for FIU CAP5610 Introduction to Machine Learning (Spring/2022). 
+Final project submitted to FIU CAP5610 Introduction to Machine Learning (Spring/2022). 
 
 In this project, we built an image classifier to classify fashion images into one of 4 categories: Apparel, Accessories, Personal Care, Footwear.
 
