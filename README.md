@@ -3,6 +3,8 @@ Final project submitted to FIU CAP5610 Introduction to Machine Learning (Spring/
 
 In this project, we built an image classifier to classify fashion images into one of 4 categories: Apparel, Accessories, Personal Care, Footwear.
 
+Group Members: Paulo Padrao, [Jose Fuentes](https://github.com/Xioeng), Prasanth Annam, Sergio Torres
+
 ## Data Description
 
 ``fiu-cap5610-spring22`` contains the following files:
