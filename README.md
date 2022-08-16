@@ -1,7 +1,7 @@
 # Machine Learning Competition
 Final project submitted to FIU CAP5610 Introduction to Machine Learning (Spring/2022). 
 
-In this project, we built an image classifier to classify fashion images into one of 4 categories: Apparel, Accessories, Personal Care, Footwear.
+In this project, we built an image classifier to classify fashion images into one of 4 categories: Apparel, Accessories, Personal Care, Footwear. The accuracy obtained was 99.49% and we ended up first place among other 9 groups
 
 Group Members: Paulo Padrao, [Jose Fuentes](https://github.com/Xioeng), Prasanth Annam, Sergio Torres
 
